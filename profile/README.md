@@ -1,12 +1,13 @@
-## Hi there 👋
+## 项目名称
+> 请介绍一下你的项目吧  
+当前本项目处于待开发状态，，正在积极筹备中！
 
-<!--
+## 如何获取源码？
+请按照以下步骤进行：
+>通过repo方式获取
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 运行条件
+> 列出运行该项目所必须的条件和相关依赖  
+* 条件一
+* 条件二
+* 条件三
